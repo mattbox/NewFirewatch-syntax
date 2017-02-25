@@ -1,0 +1,18 @@
+{
+  "name": "NewFirewatch-syntax",
+  "theme": "syntax",
+  "version": "1.2.0",
+  "description": "A modified theme based on firewatch-syntax inspired by the game",
+  "keywords": [
+    "dark",
+    "red",
+    "orange",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mattbox/Newfirewatch-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13 <2.0.0"
+  }
+}
